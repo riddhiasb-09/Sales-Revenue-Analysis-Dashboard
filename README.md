@@ -48,7 +48,7 @@ The project uses the **Sample Superstore Dataset**, which contains:
 ## Dashboard Preview
 
 ### Complete Dashboard
-![Dashboard](Screenshots/Dashboardoverview.png)
+![Dashboard](https://github.com/riddhiasb-09/Sales-Revenue-Analysis-Dashboard/blob/main/Screenshots/Dashboard%20overview.png?raw=true)
 
 ### KPI Cards
 ![KPIs](Screenshots/KPICards.png)
