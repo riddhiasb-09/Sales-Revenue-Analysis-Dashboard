@@ -47,7 +47,11 @@ The project uses the **Sample Superstore Dataset**, which contains:
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard Overview.png)
+### Complete Dashboard
+![Dashboard](Screenshots/Dashboard overview.png)
+
+### KPI Cards
+![KPIs](Screenshots/KPI Cards.png)
 
 ## Key Business Insights
 - Technology category generated the highest sales.
