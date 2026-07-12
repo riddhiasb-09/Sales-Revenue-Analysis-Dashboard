@@ -104,5 +104,7 @@ Sales-Revenue-Analysis-Dashboard/
 ## 👩‍💻 Author
 
 **Riddhi Bhati**
+
 B.Tech in Artificial Intelligence & Machine Learning
+
 Data Analytics Intern
