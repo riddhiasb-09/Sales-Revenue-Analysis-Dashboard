@@ -51,7 +51,13 @@ The project uses the **Sample Superstore Dataset**, which contains:
 ![Dashboard](https://github.com/riddhiasb-09/Sales-Revenue-Analysis-Dashboard/blob/main/Screenshots/Dashboard%20overview.png?raw=true)
 
 ### KPI Cards
-![KPIs](Screenshots/KPICards.png)
+![KPIs](https://github.com/riddhiasb-09/Sales-Revenue-Analysis-Dashboard/blob/main/Screenshots/KPI%20Cards.png?raw=true)
+
+### Revenue Trend
+![Revenue](Screenshots/Revenue_Trend.png)
+
+### Top 10 Products
+![Products](Screenshots/Top10_Products.png)
 
 ## Key Business Insights
 - Technology category generated the highest sales.
