@@ -54,7 +54,7 @@ The project uses the **Sample Superstore Dataset**, which contains:
 ![KPIs](https://github.com/riddhiasb-09/Sales-Revenue-Analysis-Dashboard/blob/main/Screenshots/KPI%20Cards.png?raw=true)
 
 ### Revenue Trend
-![Revenue](Screenshots/Revenue_Trend.png)
+![Revenue](https://github.com/riddhiasb-09/Sales-Revenue-Analysis-Dashboard/blob/main/Screenshots/Revenue%20Trend.png?raw=true)
 
 ### Top 10 Products
 ![Products](Screenshots/Top10_Products.png)
