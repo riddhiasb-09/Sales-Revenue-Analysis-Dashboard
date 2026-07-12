@@ -48,7 +48,7 @@ The project uses the **Sample Superstore Dataset**, which contains:
 ## Dashboard Preview
 
 ### Complete Dashboard
-![Dashboard](Screenshots/Dashboard overview.png)
+![Dashboard](Screenshots/Dashboardoverview.png)
 
 ### KPI Cards
 ![KPIs](Screenshots/KPICards.png)
