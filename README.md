@@ -67,6 +67,7 @@ The project uses the **Sample Superstore Dataset**, which contains:
 - Monthly sales showed strong growth during the holiday season.
 
 ## 📂 Project Structure
+```text
 Sales-Revenue-Analysis-Dashboard/
 │
 ├── Data/
@@ -85,6 +86,7 @@ Sales-Revenue-Analysis-Dashboard/
 │   └── Top10_Products.png
 │
 └── README.md
+```
 
 ## 🚀 How to Run
 1. Download the repository.
